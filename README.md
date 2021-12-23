@@ -3,9 +3,9 @@ Miscellaneous repository for my various TI programs. Not well organized, any lar
 
 CHAOS: creates sierpinski's triangle using random chaos
 
-CHI2: calculates chi-square value for input data, uses list CHI to return critical value
+CHI2: calculates chi-square value from input data, uses list CHI to return critical value
 
-COMBANAL: performs combustion analysis on input data
+COMBANAL: performs combustion analysis from input data
 
 DECTOBI: converts a decimal number to a binary number
 
