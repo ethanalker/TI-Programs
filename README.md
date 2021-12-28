@@ -19,7 +19,7 @@ RIEMANN: finds trapezoidal riemann sum from a table using L1 as x values and L2 
 
 SIMPRAD: finds simplest radical form of the square root of an integer
 
-TICTAC3: tic tac toe game
+TICTAC: tic tac toe game
 
 TODEC: converts numbers of any base to decimal
 
