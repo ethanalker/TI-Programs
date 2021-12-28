@@ -23,4 +23,4 @@ TICTAC: tic tac toe game
 
 TODEC: converts numbers of any base to decimal
 
-VECTOR: performs vector addition given an arbitrary number of vectors with magnitude and direction as input
+VECTOR: performs vector addition from a given number of vectors with magnitude and direction as input for each
